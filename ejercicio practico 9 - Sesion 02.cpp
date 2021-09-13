@@ -1,4 +1,5 @@
-#include <iostream>
+#includujkjjjj
+e <iostream> 
 using namespace std;
 int main(){
 	int edad;
